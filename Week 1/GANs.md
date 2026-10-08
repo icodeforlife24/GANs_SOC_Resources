@@ -86,6 +86,9 @@ The goal is:
 - Both generator and discriminator receive conditional input
 - Enables controlled generation
 hi
+
+got it
+
 ### Wasserstein GAN (WGAN)
 - Uses Wasserstein distance instead of Jensen-Shannon divergence
 - More stable training and meaningful loss values
