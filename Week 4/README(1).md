@@ -2,6 +2,10 @@
 
 ## What is a Conditional GAN?
 
+
+
+
+
 A standard GAN generates random outputs from noise — you have no control over what comes out. A **Conditional GAN (cGAN)** fixes this by feeding an extra label/condition `y` into both networks:
 
 - **Generator:** `G(z, y) → image` — noise `z` + condition `y` (e.g. a class label)

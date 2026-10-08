@@ -85,7 +85,7 @@ The goal is:
 - Generates data conditioned on class labels or other information
 - Both generator and discriminator receive conditional input
 - Enables controlled generation
-
+hi
 ### Wasserstein GAN (WGAN)
 - Uses Wasserstein distance instead of Jensen-Shannon divergence
 - More stable training and meaningful loss values
